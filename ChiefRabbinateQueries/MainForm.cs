@@ -85,12 +85,27 @@ namespace ChiefRabbinateQueries
                 { "30", $"יום שלשים לחודש {MonthComboBox.Text} שהוא ראש חודש {nextMunths[MonthComboBox.Text]}" }
             };
 
+            Dictionary<string, string> years = new()
+            {
+                { "תשפ\"ד", "ושמונים וארבע" },
+                { "תשפ\"ה", "ושמונים וחמש" },
+                { "תשפ\"ו", "ושמונים ושש" },
+                { "תשפ\"ז", "ושמונים ושבע" },
+                { "תשפ\"ח", "ושמונים ושמונה" },
+                { "תשפ\"ט", "ושמונים ותשע" },
+                { "תש\"צ", "ותשעים" },
+                { "תשצ\"א", "ותשעים ואחת" },
+                { "תשצ\"ב", "ותשעים ושתיים" },
+                { "תשצ\"ג", "ותשעים ושלש" }
+            };
+
             string day = WeekDayComboBox.Text;
             string dayMonth = MonthDayComboBox.Text;
             string month = MonthComboBox.Text;
             string year = YearComboBox.Text;
-            string result = 
-                $"{weekDays[WeekDayComboBox.Text]} בשבת {monthDays[MonthDayComboBox.Text]} לירח {month} שנת {year} לבריאת העולם";
+            string result =
+                $"{weekDays[day]} בשבת {monthDays[dayMonth]} לירח {month} " +
+                $"שנת חמשת אלפים ושבע מאות {years[year]} לבריאת העולם";
 
             DateModel newData = new(day, dayMonth, month, year, result);
 

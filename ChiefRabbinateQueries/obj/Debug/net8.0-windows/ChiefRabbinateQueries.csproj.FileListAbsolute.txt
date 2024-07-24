@@ -14,3 +14,4 @@ C:\Users\Simch\source\repos\ChiefRabbinateQueries\ChiefRabbinateQueries\obj\Debu
 C:\Users\Simch\source\repos\ChiefRabbinateQueries\ChiefRabbinateQueries\obj\Debug\net8.0-windows\ChiefRabbinateQueries.pdb
 C:\Users\Simch\source\repos\ChiefRabbinateQueries\ChiefRabbinateQueries\obj\Debug\net8.0-windows\ChiefRabbinateQueries.genruntimeconfig.cache
 C:\Users\Simch\source\repos\ChiefRabbinateQueries\ChiefRabbinateQueries\obj\Debug\net8.0-windows\ref\ChiefRabbinateQueries.dll
+C:\Users\Simch\source\repos\ChiefRabbinateQueries\ChiefRabbinateQueries\obj\Debug\net8.0-windows\ChiefRabbinateQueries.sourcelink.json

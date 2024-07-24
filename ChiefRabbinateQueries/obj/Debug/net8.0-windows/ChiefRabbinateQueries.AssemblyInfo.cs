@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChiefRabbinateQueries")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+efab0e71bf9fca46cf5f8b1418cc3cd5258b056d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChiefRabbinateQueries")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChiefRabbinateQueries")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

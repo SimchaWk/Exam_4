@@ -1,59 +1,115 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Queries>
   <Query>
-    <Day>רביעי</Day>
-    <DayMonth>8</DayMonth>
-    <Month>שבט</Month>
-    <Year>תשפ"ה</Year>
-    <Result>ברביעי בשבת שמנה ימים לירח שבט שנת תשפ"ה לבריאת העולם</Result>
-  </Query>
-  <Query>
-    <Day>רביעי</Day>
-    <DayMonth>19</DayMonth>
-    <Month>אייר</Month>
-    <Year>תשצ"ב</Year>
-    <Result>ברביעי בשבת תשעה עשר יום לירח אייר שנת תשצ"ב לבריאת העולם</Result>
-  </Query>
-  <Query>
     <Day>ראשון</Day>
-    <DayMonth>3</DayMonth>
-    <Month>כסלו</Month>
+    <DayMonth>2</DayMonth>
+    <Month>תשרי</Month>
     <Year>תשפ"ה</Year>
-    <Result>באחד בשבת שלשה ימים לירח כסלו שנת תשפ"ה לבריאת העולם</Result>
+    <Result>באחד בשבת שני ימים לירח תשרי שנת חמשת אלפים ושבע מאות ושמונים וחמש לבריאת העולם</Result>
+  </Query>
+  <Query>
+    <Day>שלישי</Day>
+    <DayMonth>2</DayMonth>
+    <Month>תשרי</Month>
+    <Year>תשפ"ה</Year>
+    <Result>בשלישי בשבת שני ימים לירח תשרי שנת חמשת אלפים ושבע מאות ושמונים וחמש לבריאת העולם</Result>
   </Query>
   <Query>
     <Day>שני</Day>
-    <DayMonth>26</DayMonth>
-    <Month>אב</Month>
-    <Year>תשפ"ד</Year>
-    <Result>בשני בשבת ששה ועשרים יום לירח אב שנת תשפ"ד לבריאת העולם</Result>
-  </Query>
-  <Query>
-    <Day>שלישי</Day>
-    <DayMonth>27</DayMonth>
-    <Month>אדר הראשון</Month>
-    <Year>תשפ"ד</Year>
-    <Result>בשלישי בשבת שבעה ועשרים יום לירח אדר הראשון שנת תשפ"ד לבריאת העולם</Result>
-  </Query>
-  <Query>
-    <Day>שלישי</Day>
-    <DayMonth>30</DayMonth>
-    <Month>אדר הראשון</Month>
-    <Year>תשפ"ד</Year>
-    <Result>בשלישי בשבת יום שלשים לחודש אדר הראשון שהוא ראש חודש אדר השני לירח אדר הראשון שנת תשפ"ד לבריאת העולם</Result>
+    <DayMonth>2</DayMonth>
+    <Month>תשרי</Month>
+    <Year>תשפ"ה</Year>
+    <Result>בשני בשבת שני ימים לירח תשרי שנת חמשת אלפים ושבע מאות ושמונים וחמש לבריאת העולם</Result>
   </Query>
   <Query>
     <Day>רביעי</Day>
+    <DayMonth>2</DayMonth>
+    <Month>תשרי</Month>
+    <Year>תשפ"ה</Year>
+    <Result>ברביעי בשבת שני ימים לירח תשרי שנת חמשת אלפים ושבע מאות ושמונים וחמש לבריאת העולם</Result>
+  </Query>
+  <Query>
+    <Day>חמישי</Day>
+    <DayMonth>2</DayMonth>
+    <Month>תשרי</Month>
+    <Year>תשפ"ה</Year>
+    <Result>בחמישי בשבת שני ימים לירח תשרי שנת חמשת אלפים ושבע מאות ושמונים וחמש לבריאת העולם</Result>
+  </Query>
+  <Query>
+    <Day>ששי</Day>
+    <DayMonth>2</DayMonth>
+    <Month>תשרי</Month>
+    <Year>תשפ"ה</Year>
+    <Result>בששי בשבת שני ימים לירח תשרי שנת חמשת אלפים ושבע מאות ושמונים וחמש לבריאת העולם</Result>
+  </Query>
+  <Query>
+    <Day>ששי</Day>
+    <DayMonth>2</DayMonth>
+    <Month>תשרי</Month>
+    <Year>תשפ"ה</Year>
+    <Result>בששי בשבת שני ימים לירח תשרי שנת חמשת אלפים ושבע מאות ושמונים וחמש לבריאת העולם</Result>
+  </Query>
+  <Query>
+    <Day>ששי</Day>
     <DayMonth>3</DayMonth>
-    <Month>שבט</Month>
-    <Year>תשפ"ט</Year>
-    <Result>ברביעי בשבת שלשה ימים לירח שבט שנת תשפ"ט לבריאת העולם</Result>
+    <Month>תשרי</Month>
+    <Year>תשפ"ה</Year>
+    <Result>בששי בשבת שלשה ימים לירח תשרי שנת חמשת אלפים ושבע מאות ושמונים וחמש לבריאת העולם</Result>
   </Query>
   <Query>
-    <Day>רביעי</Day>
-    <DayMonth>30</DayMonth>
+    <Day>ששי</Day>
+    <DayMonth>4</DayMonth>
+    <Month>תשרי</Month>
+    <Year>תשפ"ה</Year>
+    <Result>בששי בשבת ארבעה ימים לירח תשרי שנת חמשת אלפים ושבע מאות ושמונים וחמש לבריאת העולם</Result>
+  </Query>
+  <Query>
+    <Day>ששי</Day>
+    <DayMonth>19</DayMonth>
+    <Month>תשרי</Month>
+    <Year>תשפ"ה</Year>
+    <Result>בששי בשבת תשעה עשר יום לירח תשרי שנת חמשת אלפים ושבע מאות ושמונים וחמש לבריאת העולם</Result>
+  </Query>
+  <Query>
+    <Day>ששי</Day>
+    <DayMonth>19</DayMonth>
     <Month>שבט</Month>
-    <Year>תשפ"ט</Year>
-    <Result>ברביעי בשבת יום שלשים לחודש שבט שהוא ראש חודש אדר לירח שבט שנת תשפ"ט לבריאת העולם</Result>
+    <Year>תשפ"ה</Year>
+    <Result>בששי בשבת תשעה עשר יום לירח שבט שנת חמשת אלפים ושבע מאות ושמונים וחמש לבריאת העולם</Result>
+  </Query>
+  <Query>
+    <Day>ששי</Day>
+    <DayMonth>19</DayMonth>
+    <Month>סיון</Month>
+    <Year>תשפ"ה</Year>
+    <Result>בששי בשבת תשעה עשר יום לירח סיון שנת חמשת אלפים ושבע מאות ושמונים וחמש לבריאת העולם</Result>
+  </Query>
+  <Query>
+    <Day>ששי</Day>
+    <DayMonth>19</DayMonth>
+    <Month>סיון</Month>
+    <Year>תשפ"ח</Year>
+    <Result>בששי בשבת תשעה עשר יום לירח סיון שנת חמשת אלפים ושבע מאות ושמונים ושמונה לבריאת העולם</Result>
+  </Query>
+  <Query>
+    <Day>ששי</Day>
+    <DayMonth>19</DayMonth>
+    <Month>סיון</Month>
+    <Year>תשצ"א</Year>
+    <Result>בששי בשבת תשעה עשר יום לירח סיון שנת חמשת אלפים ושבע מאות ותשעים ואחת לבריאת העולם</Result>
+  </Query>
+  <Query>
+    <Day>ששי</Day>
+    <DayMonth>19</DayMonth>
+    <Month>סיון</Month>
+    <Year>תשצ"ב</Year>
+    <Result>בששי בשבת תשעה עשר יום לירח סיון שנת חמשת אלפים ושבע מאות ותשעים ושתיים לבריאת העולם</Result>
+  </Query>
+  <Query>
+    <Day>ששי</Day>
+    <DayMonth>30</DayMonth>
+    <Month>סיון</Month>
+    <Year>תשצ"ב</Year>
+    <Result>בששי בשבת יום שלשים לחודש סיון שהוא ראש חודש תמוז לירח סיון שנת חמשת אלפים ושבע מאות ותשעים ושתיים לבריאת העולם</Result>
   </Query>
 </Queries>
