@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Simch\\source\\repos\\ChiefRabbinateQueries\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{072D6A16-054C-458C-AB94-FD5B73E7243B}|ChiefRabbinateQueries\\ChiefRabbinateQueries.csproj|c:\\users\\simch\\source\\repos\\chiefrabbinatequeries\\chiefrabbinatequeries\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{072D6A16-054C-458C-AB94-FD5B73E7243B}|ChiefRabbinateQueries\\ChiefRabbinateQueries.csproj|solutionrelative:chiefrabbinatequeries\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{072D6A16-054C-458C-AB94-FD5B73E7243B}|ChiefRabbinateQueries\\ChiefRabbinateQueries.csproj|c:\\users\\simch\\source\\repos\\chiefrabbinatequeries\\chiefrabbinatequeries\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{072D6A16-054C-458C-AB94-FD5B73E7243B}|ChiefRabbinateQueries\\ChiefRabbinateQueries.csproj|solutionrelative:chiefrabbinatequeries\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{072D6A16-054C-458C-AB94-FD5B73E7243B}|ChiefRabbinateQueries\\ChiefRabbinateQueries.csproj|c:\\users\\simch\\source\\repos\\chiefrabbinatequeries\\chiefrabbinatequeries\\service\\dateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{072D6A16-054C-458C-AB94-FD5B73E7243B}|ChiefRabbinateQueries\\ChiefRabbinateQueries.csproj|solutionrelative:chiefrabbinatequeries\\service\\dateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{072D6A16-054C-458C-AB94-FD5B73E7243B}|ChiefRabbinateQueries\\ChiefRabbinateQueries.csproj|c:\\users\\simch\\source\\repos\\chiefrabbinatequeries\\chiefrabbinatequeries\\model\\datemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{072D6A16-054C-458C-AB94-FD5B73E7243B}|ChiefRabbinateQueries\\ChiefRabbinateQueries.csproj|solutionrelative:chiefrabbinatequeries\\model\\datemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Simch\\source\\repos\\ChiefRabbinateQueries\\ChiefRabbinateQueries\\MainForm.cs",
+              "RelativeDocumentMoniker": "ChiefRabbinateQueries\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Simch\\source\\repos\\ChiefRabbinateQueries\\ChiefRabbinateQueries\\MainForm.cs",
+              "RelativeToolTip": "ChiefRabbinateQueries\\MainForm.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:14:47.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Simch\\source\\repos\\ChiefRabbinateQueries\\ChiefRabbinateQueries\\MainForm.cs",
+              "RelativeDocumentMoniker": "ChiefRabbinateQueries\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Simch\\source\\repos\\ChiefRabbinateQueries\\ChiefRabbinateQueries\\MainForm.cs [Design]",
+              "RelativeToolTip": "ChiefRabbinateQueries\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T06:55:43.392Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DateService.cs",
+              "DocumentMoniker": "C:\\Users\\Simch\\source\\repos\\ChiefRabbinateQueries\\ChiefRabbinateQueries\\Service\\DateService.cs",
+              "RelativeDocumentMoniker": "ChiefRabbinateQueries\\Service\\DateService.cs",
+              "ToolTip": "C:\\Users\\Simch\\source\\repos\\ChiefRabbinateQueries\\ChiefRabbinateQueries\\Service\\DateService.cs",
+              "RelativeToolTip": "ChiefRabbinateQueries\\Service\\DateService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:02:41.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DateModel.cs",
+              "DocumentMoniker": "C:\\Users\\Simch\\source\\repos\\ChiefRabbinateQueries\\ChiefRabbinateQueries\\Model\\DateModel.cs",
+              "RelativeDocumentMoniker": "ChiefRabbinateQueries\\Model\\DateModel.cs",
+              "ToolTip": "C:\\Users\\Simch\\source\\repos\\ChiefRabbinateQueries\\ChiefRabbinateQueries\\Model\\DateModel.cs",
+              "RelativeToolTip": "ChiefRabbinateQueries\\Model\\DateModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T06:59:52.002Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

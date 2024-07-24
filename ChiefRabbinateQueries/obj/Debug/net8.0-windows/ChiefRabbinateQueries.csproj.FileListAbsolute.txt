@@ -1,0 +1,16 @@
+C:\Users\Simch\source\repos\ChiefRabbinateQueries\ChiefRabbinateQueries\bin\Debug\net8.0-windows\ChiefRabbinateQueries.exe
+C:\Users\Simch\source\repos\ChiefRabbinateQueries\ChiefRabbinateQueries\bin\Debug\net8.0-windows\ChiefRabbinateQueries.deps.json
+C:\Users\Simch\source\repos\ChiefRabbinateQueries\ChiefRabbinateQueries\bin\Debug\net8.0-windows\ChiefRabbinateQueries.runtimeconfig.json
+C:\Users\Simch\source\repos\ChiefRabbinateQueries\ChiefRabbinateQueries\bin\Debug\net8.0-windows\ChiefRabbinateQueries.dll
+C:\Users\Simch\source\repos\ChiefRabbinateQueries\ChiefRabbinateQueries\bin\Debug\net8.0-windows\ChiefRabbinateQueries.pdb
+C:\Users\Simch\source\repos\ChiefRabbinateQueries\ChiefRabbinateQueries\obj\Debug\net8.0-windows\ChiefRabbinateQueries.MainForm.resources
+C:\Users\Simch\source\repos\ChiefRabbinateQueries\ChiefRabbinateQueries\obj\Debug\net8.0-windows\ChiefRabbinateQueries.csproj.GenerateResource.cache
+C:\Users\Simch\source\repos\ChiefRabbinateQueries\ChiefRabbinateQueries\obj\Debug\net8.0-windows\ChiefRabbinateQueries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simch\source\repos\ChiefRabbinateQueries\ChiefRabbinateQueries\obj\Debug\net8.0-windows\ChiefRabbinateQueries.AssemblyInfoInputs.cache
+C:\Users\Simch\source\repos\ChiefRabbinateQueries\ChiefRabbinateQueries\obj\Debug\net8.0-windows\ChiefRabbinateQueries.AssemblyInfo.cs
+C:\Users\Simch\source\repos\ChiefRabbinateQueries\ChiefRabbinateQueries\obj\Debug\net8.0-windows\ChiefRabbinateQueries.csproj.CoreCompileInputs.cache
+C:\Users\Simch\source\repos\ChiefRabbinateQueries\ChiefRabbinateQueries\obj\Debug\net8.0-windows\ChiefRabbinateQueries.dll
+C:\Users\Simch\source\repos\ChiefRabbinateQueries\ChiefRabbinateQueries\obj\Debug\net8.0-windows\refint\ChiefRabbinateQueries.dll
+C:\Users\Simch\source\repos\ChiefRabbinateQueries\ChiefRabbinateQueries\obj\Debug\net8.0-windows\ChiefRabbinateQueries.pdb
+C:\Users\Simch\source\repos\ChiefRabbinateQueries\ChiefRabbinateQueries\obj\Debug\net8.0-windows\ChiefRabbinateQueries.genruntimeconfig.cache
+C:\Users\Simch\source\repos\ChiefRabbinateQueries\ChiefRabbinateQueries\obj\Debug\net8.0-windows\ref\ChiefRabbinateQueries.dll
